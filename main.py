@@ -1,9 +1,23 @@
-import random
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
 url = 'https://www.imdb.com/chart/top/'
+
+def get_years_list(year_tags):
+    return [year.text.strip("()") for year in year_tags]
+
+def get_actors_list(actor_tags):
+    return [tag['title'] for tag in actor_tags]
+    
+def get_titles_list(actor_tags):
+    return [tag.text for tag in actor_tags]
+
+def get_rating_list(rating_tags):
+    return [tag.text for tag in rating_tags]
+
+def export_to_csv(df, title):
+    return df.to_csv(title)
 
 def main():
     #access URL and get html
@@ -27,20 +41,10 @@ def main():
         "year":get_years_list(movie_tag_for_years),
         'rating':get_rating_list(movie_rating_tags)
     })
-    print(df.head())
     
     
-def get_years_list(year_tags):
-    return [year.text.strip("()") for year in year_tags]
+    
 
-def get_actors_list(actor_tags):
-    return [tag['title'] for tag in actor_tags]
-    
-def get_titles_list(actor_tags):
-    return [tag.text for tag in actor_tags]
-
-def get_rating_list(rating_tags):
-    return [tag.text for tag in rating_tags]
 
 
 if __name__ == '__main__':
