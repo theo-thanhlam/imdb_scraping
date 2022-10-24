@@ -71,13 +71,13 @@
 69,Oldeuboi,"Park Chan-wook (dir.), Choi Min-sik, Yoo Ji-tae",2003,8.3
 70,Joker,"Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",2019,8.3
 71,Amadeus,"Milos Forman (dir.), F. Murray Abraham, Tom Hulce",1984,8.3
-72,Toy Story,"John Lasseter (dir.), Tom Hanks, Tim Allen",1995,8.3
-73,Inglourious Basterds,"Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",2009,8.3
+72,Inglourious Basterds,"Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",2009,8.3
+73,Toy Story,"John Lasseter (dir.), Tom Hanks, Tim Allen",1995,8.3
 74,Braveheart,"Mel Gibson (dir.), Mel Gibson, Sophie Marceau",1995,8.3
 75,Coco,"Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",2017,8.3
 76,Das Boot,"Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",1981,8.3
-77,Top Gun: Maverick,"Joseph Kosinski (dir.), Tom Cruise, Jennifer Connelly",2022,8.3
-78,Avengers: Endgame,"Anthony Russo (dir.), Robert Downey Jr., Chris Evans",2019,8.3
+77,Avengers: Endgame,"Anthony Russo (dir.), Robert Downey Jr., Chris Evans",2019,8.3
+78,Top Gun: Maverick,"Joseph Kosinski (dir.), Tom Cruise, Jennifer Connelly",2022,8.3
 79,Mononoke-hime,"Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",1997,8.3
 80,Once Upon a Time in America,"Sergio Leone (dir.), Robert De Niro, James Woods",1984,8.3
 81,Good Will Hunting,"Gus Van Sant (dir.), Robin Williams, Matt Damon",1997,8.3
@@ -111,8 +111,8 @@
 109,To Kill a Mockingbird,"Robert Mulligan (dir.), Gregory Peck, John Megna",1962,8.2
 110,Heat,"Michael Mann (dir.), Al Pacino, Robert De Niro",1995,8.2
 111,Up,"Pete Docter (dir.), Edward Asner, Jordan Nagai",2009,8.2
-112,Taxi Driver,"Martin Scorsese (dir.), Robert De Niro, Jodie Foster",1976,8.2
-113,Incendies,"Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",2010,8.2
+112,Incendies,"Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",2010,8.2
+113,Taxi Driver,"Martin Scorsese (dir.), Robert De Niro, Jodie Foster",1976,8.2
 114,Metropolis,"Fritz Lang (dir.), Brigitte Helm, Alfred Abel",1927,8.2
 115,Jodaeiye Nader az Simin,"Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",2011,8.2
 116,L.A. Confidential,"Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",1997,8.2
@@ -128,8 +128,8 @@
 126,Dangal,"Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",2016,8.2
 127,The Kid,"Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",1921,8.2
 128,Some Like It Hot,"Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",1959,8.2
-129,All About Eve,"Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",1950,8.2
-130,The Father,"Florian Zeller (dir.), Anthony Hopkins, Olivia Colman",2020,8.2
+129,The Father,"Florian Zeller (dir.), Anthony Hopkins, Olivia Colman",2020,8.2
+130,All About Eve,"Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",1950,8.2
 131,Green Book,"Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",2018,8.2
 132,The Wolf of Wall Street,"Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",2013,8.2
 133,Judgment at Nuremberg,"Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",1961,8.2
@@ -183,17 +183,17 @@
 181,Smultronstället,"Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",1957,8.1
 182,Harry Potter and the Deathly Hallows: Part 2,"David Yates (dir.), Daniel Radcliffe, Emma Watson",2011,8.1
 183,Ben-Hur,"William Wyler (dir.), Charlton Heston, Jack Hawkins",1959,8.1
-184,Gone Girl,"David Fincher (dir.), Ben Affleck, Rosamund Pike",2014,8.1
-185,The General,"Clyde Bruckman (dir.), Buster Keaton, Marion Mack",1926,8.1
+184,The General,"Clyde Bruckman (dir.), Buster Keaton, Marion Mack",1926,8.1
+185,Gone Girl,"David Fincher (dir.), Ben Affleck, Rosamund Pike",2014,8.1
 186,The Deer Hunter,"Michael Cimino (dir.), Robert De Niro, Christopher Walken",1978,8.1
 187,The Grand Budapest Hotel,"Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",2014,8.1
 188,In the Name of the Father,"Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",1993,8.1
 189,Barry Lyndon,"Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",1975,8.1
 190,Le salaire de la peur,"Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",1953,8.1
-191,Sherlock Jr.,"Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",1924,8.1
-192,Mr. Smith Goes to Washington,"Frank Capra (dir.), James Stewart, Jean Arthur",1939,8.1
-193,Hacksaw Ridge,"Mel Gibson (dir.), Andrew Garfield, Sam Worthington",2016,8.1
-194,Salinui chueok,"Bong Joon Ho (dir.), Song Kang-ho, Kim Sang-kyung",2003,8.1
+191,Mr. Smith Goes to Washington,"Frank Capra (dir.), James Stewart, Jean Arthur",1939,8.1
+192,Sherlock Jr.,"Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",1924,8.1
+193,Salinui chueok,"Bong Joon Ho (dir.), Song Kang-ho, Kim Sang-kyung",2003,8.1
+194,Hacksaw Ridge,"Mel Gibson (dir.), Andrew Garfield, Sam Worthington",2016,8.1
 195,Klaus,"Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",2019,8.1
 196,Relatos salvajes,"Damián Szifron (dir.), Darío Grandinetti, María Marull",2014,8.1
 197,Det sjunde inseglet,"Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",1957,8.1
@@ -216,8 +216,8 @@
 214,The Terminator,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",1984,8.0
 215,Spotlight,"Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",2015,8.0
 216,Everything Everywhere All at Once,"Dan Kwan (dir.), Michelle Yeoh, Stephanie Hsu",2022,8.0
-217,Rush,"Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",2013,8.0
-218,Logan,"James Mangold (dir.), Hugh Jackman, Patrick Stewart",2017,8.0
+217,Logan,"James Mangold (dir.), Hugh Jackman, Patrick Stewart",2017,8.0
+218,Rush,"Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",2013,8.0
 219,Ratatouille,"Brad Bird (dir.), Brad Garrett, Lou Romano",2007,8.0
 220,Network,"Sidney Lumet (dir.), Faye Dunaway, William Holden",1976,8.0
 221,Into the Wild,"Sean Penn (dir.), Emile Hirsch, Vince Vaughn",2007,8.0
@@ -245,7 +245,7 @@
 243,The Sound of Music,"Robert Wise (dir.), Julie Andrews, Christopher Plummer",1965,8.0
 244,Life of Brian,"Terry Jones (dir.), Graham Chapman, John Cleese",1979,8.0
 245,Dersu Uzala,"Akira Kurosawa (dir.), Maksim Munzuk, Yuriy Solomin",1975,8.0
-246,Gandhi,"Richard Attenborough (dir.), Ben Kingsley, John Gielgud",1982,8.0
-247,The Help,"Tate Taylor (dir.), Viola Davis, Emma Stone",2011,8.0
+246,The Help,"Tate Taylor (dir.), Viola Davis, Emma Stone",2011,8.0
+247,Gandhi,"Richard Attenborough (dir.), Ben Kingsley, John Gielgud",1982,8.0
 248,Aladdin,"Ron Clements (dir.), Scott Weinger, Robin Williams",1992,8.0
 249,The Iron Giant,"Brad Bird (dir.), Eli Marienthal, Harry Connick Jr.",1999,8.0
